@@ -53,6 +53,11 @@ aside {
     font-size: 20;
 }
 
-nav>ul>li {
+header nav ul li {
     display: flex;
+    size: 10;
+}
+
+header nav ul li img {
+    width: 40px;
 }
